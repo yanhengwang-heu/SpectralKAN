@@ -29,7 +29,7 @@ Licensing
 
 MIT License
 
-Copyright (c) 2022 yanhengwang-heu
+Copyright (c) 2026 yanhengwang-heu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
