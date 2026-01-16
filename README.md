@@ -21,7 +21,7 @@ Citation
     
 How to use it?
 ---------------------
-Run python demo.py --dataset='farmland' for training, and run python test_new.py for testing and obtaining the change detection results.
+Run `python demo.py --dataset='farmland'` for training, and run `python test_new.py` for testing and obtaining the change detection results.
 
 
 Licensing
