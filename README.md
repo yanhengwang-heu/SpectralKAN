@@ -1,5 +1,5 @@
 # SpectralKAN: Weighted Activation Distribution Kolmogorov–Arnold Network for Hyperspectral Image Change Detection
-The code in this toolbox implements the ["Spectral–Spatial–Temporal Transformers for Hyperspectral Image Change Detection"](https://www.sciencedirect.com/science/article/pii/S0031320326000051). 
+The code in this toolbox implements the ["SpectralKAN: Weighted Activation Distribution Kolmogorov–Arnold Network for Hyperspectral Image Change Detection"](https://www.sciencedirect.com/science/article/pii/S0031320326000051). 
 
 ![image](spectralkan.png)
 
